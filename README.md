@@ -1,4 +1,4 @@
-# Automated Drosophila Geotaxis Tracker
+# Semi-Automated Drosophila Tracker
 
 A Python and OpenCV-based image analysis tool designed to automatically track the trajectory of a Drosophila (fruit fly) moving inside a transparent tube. The project includes a user-friendly GUI (built with Tkinter) to streamline the analysis process in a laboratory environment.
 
